@@ -2,8 +2,8 @@ import pandas as pd
 import sqlite3
 
 # Load CSVs from the specified file paths
-u1 = pd.read_csv('/content/FIS-U1.csv')
-r1 = pd.read_csv('/content/FIS_R1.csv')
+u1 = pd.read_csv('/Data/FIS-U1.csv')
+r1 = pd.read_csv('Data/FIS-R1.csv')
 
 # Check first few rows
 print("Utilization Results (U1):")
