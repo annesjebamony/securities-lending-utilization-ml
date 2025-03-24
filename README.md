@@ -26,6 +26,20 @@ The goal of this project is to analyze how the borrowing demand for securities f
 
 ---
 
+## Key Insight & Business Value for SBL Firms
+
+One of the most impactful findings in this project was the use of **Z-score-based anomaly detection** to shows rare but critical utilization spikes. While most utilization values remained under 1%, the model identified high-utilization anomalies, particularly in 2014 and 2016, where utilization surged beyond 8%.
+
+### How SBL Firms Benefit:
+- **Proactive Risk Management**: These spikes signal speculative trading or short squeezes. SBL firms can use this information to flag risky periods and adjust collateral or inventory strategies.
+- **Dynamic Loan Pricing**: Insights from the utilization distribution help firms create tiered pricing models — adjusting interest rates for low vs. high utilization scenarios.
+- **Inventory Forecasting**: 7-day rolling averages help firms prepare for periods of sustained borrowing, ensuring asset availability and preventing liquidity gaps.
+- **Model-Based Strategy**: With a Random Forest R² score of 0.71, SBL companies can trust the model to support strategic forecasting of lending demand.
+
+These insights elevate SBL operations from reactive to proactive, using data science to stay ahead of market shifts.
+
+---
+
 ## Exploratory Data Analysis
 
 - Utilization Over Time (AAPL)
@@ -56,20 +70,5 @@ The goal of this project is to analyze how the borrowing demand for securities f
 | Ensemble          | 0.2908  | 0.4227   |
 
 ---
-
----
-
-## Key Insight & Business Value for SBL Firms
-
-One of the most impactful findings in this project was the use of **Z-score-based anomaly detection** to shows rare but critical utilization spikes. While most utilization values remained under 1%, the model identified high-utilization anomalies, particularly in 2014 and 2016, where utilization surged beyond 8%.
-
-### How SBL Firms Benefit:
-- **Proactive Risk Management**: These spikes signal speculative trading or short squeezes. SBL firms can use this information to flag risky periods and adjust collateral or inventory strategies.
-- **Dynamic Loan Pricing**: Insights from the utilization distribution help firms create tiered pricing models — adjusting interest rates for low vs. high utilization scenarios.
-- **Inventory Forecasting**: 7-day rolling averages help firms prepare for periods of sustained borrowing, ensuring asset availability and preventing liquidity gaps.
-- **Model-Based Strategy**: With a Random Forest R² score of 0.71, SBL companies can trust the model to support strategic forecasting of lending demand.
-
-These insights elevate SBL operations from reactive to proactive, using data science to stay ahead of market shifts.
-
 ---
 
