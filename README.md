@@ -1,11 +1,7 @@
 
 # Securities Lending Utilization Analysis
 
-This project analyzes short lending utilization patterns using the **FIS Astec Analytics Short Lending Data (SLD)** feed from Nasdaq Data Link. It aims to uncover trends, identify anomalies, and predict future utilization behavior to support Securities-Based Lending (SBL) firms.
-
----
-
-The goal of this project is to analyze how the borrowing demand for securities fluctuates over time. I aim to predict utilization percentages and detect anomalies using data science and machine learning methods, helping SBL firms optimize lending strategies, assess market risk, and price loans more effectively.
+This project analyzes short lending utilization patterns using the **FIS Astec Analytics Short Lending Data (SLD)** feed from Nasdaq Data Link. It aims to show trends, identify anomalies, and predict future utilization behavior to support Securities-Based Lending (SBL) firms. The goal of this project is to analyze how the borrowing demand for securities fluctuates over time. I aim to predict utilization percentages and detect anomalies using data science and machine learning methods, helping SBL firms optimize lending strategies, assess market risk, and price loans more effectively.
 
 ---
 
