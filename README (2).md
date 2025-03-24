@@ -1,17 +1,15 @@
 
-# 📊 Securities Lending Utilization Analysis
+# Securities Lending Utilization Analysis
 
 This project analyzes short lending utilization patterns using the **FIS Astec Analytics Short Lending Data (SLD)** feed from Nasdaq Data Link. It aims to uncover trends, identify anomalies, and predict future utilization behavior to support Securities-Based Lending (SBL) firms.
 
 ---
 
-## 🔍 Problem Statement
-
-The goal of this project is to analyze how the borrowing demand for securities fluctuates over time. We aim to predict utilization percentages and detect anomalies using data science and machine learning methods, helping SBL firms optimize lending strategies, assess market risk, and price loans more effectively.
+The goal of this project is to analyze how the borrowing demand for securities fluctuates over time. I aim to predict utilization percentages and detect anomalies using data science and machine learning methods, helping SBL firms optimize lending strategies, assess market risk, and price loans more effectively.
 
 ---
 
-## 📦 Dataset Description
+## Dataset Description
 
 - `FIS-U1.csv`: Utilization data (e.g., AAPL, ISIN, utilization percent, dates)
 - `FIS-R1.csv`: Rate data (loan rates per symbol, no date)
@@ -19,7 +17,7 @@ The goal of this project is to analyze how the borrowing demand for securities f
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - **SQL (SQLite in Python)** for in-memory joins
 - **Python (Pandas, NumPy, Seaborn, Matplotlib)** for preprocessing and visualization
@@ -28,7 +26,7 @@ The goal of this project is to analyze how the borrowing demand for securities f
 
 ---
 
-## 📈 Exploratory Data Analysis
+## Exploratory Data Analysis
 
 - Utilization Over Time (AAPL)
 - Weekly Trends in Utilization
@@ -42,7 +40,7 @@ The goal of this project is to analyze how the borrowing demand for securities f
 
 ---
 
-## 🤖 Machine Learning Models
+## Machine Learning Models
 
 - Linear Regression
 - Random Forest Regressor (Best: R² = 0.7157)
@@ -54,7 +52,7 @@ The goal of this project is to analyze how the borrowing demand for securities f
 
 ---
 
-## 📊 Results Summary
+## Results Summary
 
 | Model              | MSE     | R² Score |
 |-------------------|---------|----------|
@@ -66,23 +64,9 @@ The goal of this project is to analyze how the borrowing demand for securities f
 
 ---
 
-## 🎓 Educational Impact
+## Educational Impact
 
 Developed as part of **DSC 478 - Programming Machine Learning Applications** at DePaul University, this project supports hands-on learning in data analysis, SQL integration, ML modeling, and financial risk analytics using real-world institutional datasets.
-
----
-
-## 📄 Report & SQL
-
-- [📘 Final Report](Final_Project_Report_Annes.pdf)
-- [📄 SQL Preprocessing Logic](sql/join_and_feature_engineering.sql)
-
----
-
-## 📌 Author
-
-👩‍💻 Annes Jebasingh Jebamony  
-Course: DSC 478 | Instructor: David Hubbard
 
 ---
 
