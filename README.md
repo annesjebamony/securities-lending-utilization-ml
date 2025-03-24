@@ -69,6 +69,8 @@ These insights elevate SBL operations from reactive to proactive, using data sci
 
 ## Key Findings & Visualizations
 ![Screenshot 2025-03-24 at 5 23 51 PM](https://github.com/user-attachments/assets/8faea47e-c4f2-4774-a56a-d8d6aa840002)
+![Screenshot 2025-03-24 at 5 24 53 PM](https://github.com/user-attachments/assets/dc28b193-3831-4495-a82e-39bf5abdac8a)
+
 
 ---
 
