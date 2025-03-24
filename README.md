@@ -13,15 +13,6 @@ This project analyzes short lending utilization patterns using the **FIS Astec A
 
 ---
 
-## Tools & Technologies
-
-- **SQL (SQLite in Python)** for in-memory joins
-- **Python (Pandas, NumPy, Seaborn, Matplotlib)** for preprocessing and visualization
-- **Scikit-learn** for modeling (regression & ensemble)
-- **Jupyter Notebook** for execution and documentation
-
----
-
 ## Key Insight & Business Value for SBL Firms
 
 One of the most impactful findings in this project was the use of **Z-score-based anomaly detection** to shows rare but critical utilization spikes. While most utilization values remained under 1%, the model identified high-utilization anomalies, particularly in 2014 and 2016, where utilization surged beyond 8%.
@@ -71,6 +62,12 @@ These insights elevate SBL operations from reactive to proactive, using data sci
 ![Screenshot 2025-03-24 at 5 23 51 PM](https://github.com/user-attachments/assets/8faea47e-c4f2-4774-a56a-d8d6aa840002)
 ![Screenshot 2025-03-24 at 5 24 53 PM](https://github.com/user-attachments/assets/dc28b193-3831-4495-a82e-39bf5abdac8a)
 ![Screenshot 2025-03-24 at 5 28 44 PM](https://github.com/user-attachments/assets/d402b064-47da-4c5f-9d88-2dc56eb84991)
-
 ---
 
+## Tools & Technologies
+
+- **SQL (SQLite in Python)** for in-memory joins
+- **Python (Pandas, NumPy, Seaborn, Matplotlib)** for preprocessing and visualization
+- **Scikit-learn** for modeling (regression & ensemble)
+- **Jupyter Notebook** for execution and documentation
+---
