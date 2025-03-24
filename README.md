@@ -9,7 +9,7 @@ The goal of this project is to analyze how the borrowing demand for securities f
 
 ---
 
-## Dataset Description
+## Dataset
 
 - `FIS-U1.csv`: Utilization data (e.g., AAPL, ISIN, utilization percent, dates)
 - `FIS-R1.csv`: Rate data (loan rates per symbol, no date)
