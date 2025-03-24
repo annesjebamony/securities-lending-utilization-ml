@@ -36,6 +36,19 @@ These insights elevate SBL operations from reactive to proactive, using data sci
 - Z-score Based Anomaly Detection
 ---
 
+## Key Findings & Visualizations
+![Screenshot 2025-03-24 at 5 23 51 PM](https://github.com/user-attachments/assets/8faea47e-c4f2-4774-a56a-d8d6aa840002)
+![Screenshot 2025-03-24 at 5 24 53 PM](https://github.com/user-attachments/assets/dc28b193-3831-4495-a82e-39bf5abdac8a)
+![Screenshot 2025-03-24 at 5 28 44 PM](https://github.com/user-attachments/assets/d402b064-47da-4c5f-9d88-2dc56eb84991)
+---
+
+## Tools & Technologies
+
+- **SQL (SQLite in Python)** for in-memory joins
+- **Python (Pandas, NumPy, Seaborn, Matplotlib)** for preprocessing and visualization
+- **Scikit-learn** for modeling (regression & ensemble)
+- **Jupyter Notebook** for execution and documentation
+---
 ## Machine Learning Models
 
 - Linear Regression
@@ -56,18 +69,4 @@ These insights elevate SBL operations from reactive to proactive, using data sci
 | KNN               | 0.4101  | 0.1860   |
 | Ensemble          | 0.2908  | 0.4227   |
 
----
-
-## Key Findings & Visualizations
-![Screenshot 2025-03-24 at 5 23 51 PM](https://github.com/user-attachments/assets/8faea47e-c4f2-4774-a56a-d8d6aa840002)
-![Screenshot 2025-03-24 at 5 24 53 PM](https://github.com/user-attachments/assets/dc28b193-3831-4495-a82e-39bf5abdac8a)
-![Screenshot 2025-03-24 at 5 28 44 PM](https://github.com/user-attachments/assets/d402b064-47da-4c5f-9d88-2dc56eb84991)
----
-
-## Tools & Technologies
-
-- **SQL (SQLite in Python)** for in-memory joins
-- **Python (Pandas, NumPy, Seaborn, Matplotlib)** for preprocessing and visualization
-- **Scikit-learn** for modeling (regression & ensemble)
-- **Jupyter Notebook** for execution and documentation
 ---
