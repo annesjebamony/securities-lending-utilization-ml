@@ -66,5 +66,9 @@ These insights elevate SBL operations from reactive to proactive, using data sci
 | Ensemble          | 0.2908  | 0.4227   |
 
 ---
+
+## Key Findings & Visualizations
+![Screenshot 2025-03-24 at 5 23 51 PM](https://github.com/user-attachments/assets/8faea47e-c4f2-4774-a56a-d8d6aa840002)
+
 ---
 
